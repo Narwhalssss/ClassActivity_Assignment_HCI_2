@@ -2,9 +2,9 @@
 var showdesc =  $(".lesson-icon")
 
 showdesc.mouseenter(function(){
-    'text-contents'.fadeIn(1000)
+    'text-contents'.show(1000)
 })
 showdesc.mouseleave(function(){
-    'text-contents'.fadeOut(1000)
+    'text-contents'.hide(1000)
 })
 
