@@ -1,10 +1,10 @@
 // Add your answer here
 var showdesc =  $(".lesson-icon")
-
+var hade1 = $(".")
 showdesc.mouseenter(function(){
-    text-contents1.fadeIn(1000)
+    'text-contents1'.fadeIn(1000)
 })
 showdesc.mouseleave(function(){
-    text-contents1.fadeOut(1000)
+    'text-contents1'.fadeOut(1000)
 })
 
